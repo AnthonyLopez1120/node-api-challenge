@@ -38,15 +38,23 @@ Commit your code regularly and use descriptive messages. This helps both you (in
 
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead.
 
-- [ ] Mention two parts of Express that you learned about this week.
+- [ ] Mention two parts of Express that you learned about this week. 
+        YOU CAN USE EXPRESS TO CREATE CUSTOM MIDDLEWARE
+        SERVER SIDE ROUTING WITH EXPRESS
 
 - [ ] Describe Middleware?
+        MIDDLEWARE EXTENDS THE FEATURES OF THE EXPRESS FRAMEWORK
+        THEY ARE FUNCTIONS THAT HANDLE TASK LIKE AUTHENTICATION 
 
 - [ ] Describe a Resource?
+        A RESOURCE IS ACCESSED VIA A UNIQUE URI AND CAN HAVE MULTIPLE REPRESENTATIONS
+        GET POST PUT AND DELETE ARE SOME EXAMPLES
 
 - [ ] What can the API return to help clients know if a request was successful?
+        200 AND 201
 
 - [ ] How can we partition our application into sub-applications?
+        NEW FILES FOR ROUTES
 
 ## Minimum Viable Product
 
